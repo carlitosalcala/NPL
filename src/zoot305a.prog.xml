@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZOOT304D</NAME>
+    <NAME>ZOOT305A</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -859,8 +859,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Objects 304: Design Patterns: Factory method pattern, step 3</ENTRY>
-     <LENGTH>60</LENGTH>
+     <ENTRY>Objects 305: Design Patterns: Adapter pattern, step 1</ENTRY>
+     <LENGTH>53</LENGTH>
     </item>
     <item>
      <ID>S</ID>
